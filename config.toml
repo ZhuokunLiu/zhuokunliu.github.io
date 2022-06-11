@@ -1,11 +1,12 @@
+baseurl = "https://zhuokunliu.github.io/"
 relativeURLs = true
-title = "Gautam Rao"
+title = "Zhuokun Liu"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "Associate Professor of Economics, Harvard University"
-    logo = "Rao_Gautam_profile_pic_small.jpg" 
+    shortbio = "Ph.D. Candidate in Economics, Goethe University Frankfurt"
+    
     
