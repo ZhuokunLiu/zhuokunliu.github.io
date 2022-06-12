@@ -8,6 +8,6 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
     shortbio = "Ph.D. Candidate in Economics, Goethe University Frankfurt"
-    logo = "content/Zhuokun_Liu_pic.jpg"
+    logo = "Zhuokun_Liu_pic.jpg"
     
     
