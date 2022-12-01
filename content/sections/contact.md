@@ -9,5 +9,3 @@ Germany
 __Teaching__ (Wintersemester 2022/23)  
 Fundamentals of Microeconomics
 
-The Economics of Social Media
-
