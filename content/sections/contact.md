@@ -6,6 +6,7 @@ Goethe University Frankfurt
 Frankfurt am Main, 60323  
 Germany
 
-__Teaching__ (Sommersemester 2022)  
-Organizational Economics
+__Teaching__ (Wintersemester 2022/23)  
+Fundamentals of Microeconomics
+The Economics of Social Media
 
