@@ -2,4 +2,4 @@ I am a Ph.D. student in Economics at the [Graduate School of Economics, Finance,
 
 My research interests lie in behavioral and experimental economics. Recent projects include studying how communication between first-movers in a trust game affects trust decisions, and the interplay between the experience effects and motivated memory.
 
-__[Curriculum Vitae](/pdf/CV_Zhuokun_Liu.pdf/)__ (Updated March 2023)
+__[Curriculum Vitae](/pdf/CV_Zhuokun_Liu.pdf/")__ (Updated March 2023)
