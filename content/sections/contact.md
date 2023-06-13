@@ -6,6 +6,6 @@ Goethe University Frankfurt
 Frankfurt am Main, 60323  
 Germany
 
-__Teaching__ (Wintersemester 2022/23)  
-Fundamentals of Microeconomics
+__Teaching__ (Summersemester 2023)  
+Decision Making in Markets and Organizations
 
