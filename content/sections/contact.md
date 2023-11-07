@@ -8,6 +8,6 @@ Goethe University Frankfurt
 Frankfurt am Main, 60323  
 Germany
 
-__Teaching__ (Summersemester 2023)  
-Decision Making in Markets and Organizations
-
+__Teaching__ (Wintersemester 2023/24)  
+Fundamentals of Microeconomics (FMIC)
+The Economics of Social Media (ECSM)
