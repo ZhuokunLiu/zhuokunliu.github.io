@@ -9,5 +9,5 @@ Frankfurt am Main, 60323
 Germany
 
 __Teaching__ (Wintersemester 2023/24)  
-Fundamentals of Microeconomics (FMIC)
+Fundamentals of Microeconomics (FMIC) <br>
 The Economics of Social Media (ECSM)
