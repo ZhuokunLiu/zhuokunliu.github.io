@@ -2,9 +2,6 @@ works:
 
 - title: "Discrimination and Memory"
   coauthors: "Huen Tat Au-Yeung"
-  links:
-    - url: "/pdf/poster.pdf"
-      text: "Poster"
   abstract: >
     Recent research suggests that discrimination is largely driven by incorrect beliefs. However, it remains unclear why discrimination persists even in the presence of feedback. This paper focuses on the role of memory, which has drawn increasing attention in the expectation formation literature. We recruit participants to grade a quiz in a gender-stereotyped domain and experimentally hide the grading records for some participants to study how this affects their recall and subsequent beliefs. Pilot results show discrimination persists only when the grading records are hidden, i.e., when participants need to rely on their memory, which seems to be driven by asymmetric recall bias.
 
