@@ -1,9 +1,9 @@
 baseurl = "https://zhuokunliu.github.io/"
 relativeURLs = true
-title = """
-Zhuokun Liu
+title = "
+Zhuokun Liu<br>
 (刘卓坤)
-"""
+"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
