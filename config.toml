@@ -11,7 +11,7 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
     shortbio = "
-    Ph.D. Candidate in Economics\n  
+    Ph.D. Candidate in Economics<br>  
     Goethe University Frankfurt
     "
     logo = "Portrait.jpg"
