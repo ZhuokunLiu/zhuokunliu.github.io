@@ -1,6 +1,6 @@
 baseurl = "https://zhuokunliu.github.io/"
 relativeURLs = true
-title = Zhuokun Liu
+title = "Zhuokun Liu"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
