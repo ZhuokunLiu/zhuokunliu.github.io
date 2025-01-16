@@ -5,4 +5,4 @@ My research interests lie in behavioral and experimental economics, with a focus
 and the interplay between the experience effects and motivated memory.
 -->
 
-__[Curriculum Vitae](/pdf/CV_Zhuokun_Liu.pdf)__ (Updated November 2024)
+__[Curriculum Vitae](/pdf/CV_Zhuokun_Liu.pdf)__ (Updated January 2025)
