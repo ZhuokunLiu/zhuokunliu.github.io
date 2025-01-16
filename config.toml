@@ -1,14 +1,15 @@
 baseurl = "https://zhuokunliu.github.io/"
 relativeURLs = true
-title = "Zhuokun Liu | (刘卓坤)"
+title = """Zhuokun Liu
+(刘卓坤)"""
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "
-    Ph.D. Candidate in Economics | Goethe University Frankfurt"
+    shortbio = """
+    Ph.D. Candidate in Economics, Goethe University Frankfurt"""
     logo = "Portrait.jpg"
     
     
