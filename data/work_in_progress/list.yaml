@@ -1,16 +1,11 @@
 works:
 
-- title: "Stereotypes and Memory Aids"
+- title: "Stereotypes and Memory"
   coauthors: "Huen Tat Au-Yeung"
   abstract: >
-    Previous studies suggest that inaccurate stereotypes can be driven by imperfect memory. 
-    We provide experimental evidence by manipulating the reliance on memory with memory aids. 
-    Participants perform a grading task for a quiz in a gender-stereotyped domain. 
-    Our findings show that stereotypes contaminate recall, leading to biased beliefs. 
-    While memory aids improve the selection of the best, they can also justify stereotypical decisions. 
-    Finally, we find that the stereotype bias is not reflected in individual performance assessments but emerges only at the gender group level.
+    Imperfect memory can reinforce inaccurate stereotypes. To establish causal evidence, we conduct an experiment where participants grade a gender-stereotyped quiz and later predict the performance of the same group on a similar quiz. We manipulate reliance on memory by varying access to grading records and information by varying the composition of quiz-takers. When evaluating groups, participants are less responsive to information that contradicts stereotypes when relying solely on memory, but this asymmetry disappears in individual evaluations. Highlighting individuals with extreme performance has no effect on group assessments. Finally, we extend the Bayesian framework to highlight two key mechanisms of belief persistence under imperfect recall: (1) prior beliefs contaminate memory, and (2) uncertainty about recalled information increases reliance on prior beliefs. We find strong evidence for the second mechanism.
 
-- title: "Communication and the Emergence of Distinct Organizational Trust Cultures"
+- title: "Communication and the Polarization of Trust Cultures"
   coauthors: "Ferdinand von Siemens"
 
 
