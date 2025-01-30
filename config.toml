@@ -7,7 +7,7 @@ defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbioline1 = "Ph.D. Candidate in Economics,"
+    shortbioline1 = "Ph.D. Candidate in Economics"
     shortbioline2 = "Goethe University Frankfurt"
     logo = "Portrait.jpg"
     
