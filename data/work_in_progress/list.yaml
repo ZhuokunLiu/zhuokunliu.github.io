@@ -1,9 +1,9 @@
 works:
 
 - title: "Stereotypes and Memory"
-  coauthors:
-    text: "Huen Tat Au-Yeung"
-    link: "https://www.su.se/english/profiles/huau1432-1.511717"
+  authors:
+    - Huen Tat Au-Yeung
+     "https://www.su.se/english/profiles/huau1432-1.511717"
   abstract: >
     Imperfect memory can sustain widely held stereotypes that are inaccurate. To establish causal evidence, we conduct an online experiment where subjects grade a gender-stereotyped quiz for a class of students and later predict their performances on a similar quiz. We vary (1) reliance on memory by manipulating access to grading records and (2) the class with different gender performance gap. We find that stereotypes—perceived gender performance gaps—persist more when subjects rely on memory, but only when the true performance contradicts stereotypes. This result holds only for group-level, but not for individual-level assessments. Then, we extend the standard Bayesian framework with imperfect memory and find evidence of memory attenuation: reliance on memory substantially reduces how accurately individuals incorporate previously observed performance into their beliefs.
 
