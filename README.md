@@ -26,7 +26,7 @@ works:
   pdflink: "http://example.com/link-to-the.pdf"
   book: "Where and when does the article appear"
   note: "A short note displayed under the title"
-  coauthors: "Coauthor A, Coauthor B and Coauthor C"
+  coauthors: "Coauthor A, [Coauthor B](http://example.com/coauthor-b) and Coauthor C"
   links:
     - url: "http://example.com/external-link-1"
       text: "Text of the link"
@@ -41,5 +41,5 @@ works:
   note: "The same syntax as the first article"
 ```
 
-Everything in the data files are optional, except the title. So you may have an article without abstract and links, and another one without note and PDF link.
+Everything in the data files are optional, except the title. So you may have an article without abstract and links, and another one without note and PDF link. Coauthor names can use Markdown links, such as `[Name](https://example.com)`.
 
