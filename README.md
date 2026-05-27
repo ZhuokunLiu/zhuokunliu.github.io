@@ -5,7 +5,7 @@
 Sidebar is controlled by the file `config.toml`.
 
 - `title` is the title of the website.
-- `shortbio` is the text displayed right under the title.
+- `shortbio` is the text displayed right under the title. To add line breaks, use a TOML multiline string.
 - `logo` is the filename of the picture. The file is placed in `content/`. For example, if `logo = "gr.jpg"` then the picture should be placed at `content/gr.jpg` (as it is now).
 
 ### Bio, Contact, From Another Life, and Personal
