@@ -51,10 +51,16 @@
 {{ end }}
 {{ end }}
 
-{{ with .Site.Data.work_in_progress }}
+{{ $scratch.Set "work_in_progress_count" 0 }}
+{{ range .Site.Data.work_in_progress }}
+{{ range .works }}
+{{ $scratch.Add "work_in_progress_count" 1 }}
+{{ end }}
+{{ end }}
+{{ if gt ($scratch.Get "work_in_progress_count") 0 }}
 <hr>
 <h2 id="workinprogress">Work in Progress</h2>
-{{ range . }}
+{{ range .Site.Data.work_in_progress }}
 {{ range .works }}
 {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
 {{ $scratch.Add "pubcnt" 1 }}   

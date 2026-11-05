@@ -20,7 +20,13 @@
 {{ with .Site.Data.working_papers }}
 <p class="contactinfo"><a href="{{ "#workingpapers" | relURL }}">Working Papers</a></p>
 {{ end }}
-{{ with .Site.Data.work_in_progress }}
+{{ $scratch.Set "work_in_progress_count" 0 }}
+{{ range .Site.Data.work_in_progress }}
+{{ range .works }}
+{{ $scratch.Add "work_in_progress_count" 1 }}
+{{ end }}
+{{ end }}
+{{ if gt ($scratch.Get "work_in_progress_count") 0 }}
 <p class="contactinfo"><a href="{{ "#workinprogress" | relURL }}">Work in Progress</a></p>
 {{ end }}
 {{ with .GetPage "/sections/from-another-life.md" }}
